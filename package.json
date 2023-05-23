@@ -1,0 +1,15 @@
+{
+  "name": "signup-page-using-express",
+  "version": "1.0.0",
+  "description": "A webapp using mailchump api and express for a sign up page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ayrus",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
